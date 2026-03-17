@@ -1,0 +1,9 @@
+curl_cffi
+beautifulsoup4
+pandas
+phonenumbers
+fastapi
+uvicorn
+elasticsearch[async]<9.0.0
+tqdm
+aiohttp
